@@ -34,7 +34,7 @@ The **Carbon0** token is a platform built on the Ethereum Blockchain using the f
 
 The goal of this project is to make **Carbon0** a trusted leader in the online environment, by building a secure and compliant _Decentralized Progressive Web Application_ (PWA) to target every device on the market to make it easier to gain adoption of the _Carbon0_ platform by as many people and organizations as possible.
 
-## GrapeID Project Structure
+## Carbon0 Project Structure
 
 There are a few repositories to be aware of to be able to successfully contribute to the development of this application. Below are the list of repositories in question:
 
@@ -117,15 +117,15 @@ Code review should take place using discussion features within the Pull Request.
 
 Upon the successful completion of the merge into `dev` the reviewer/integrator **SHALL** create a second Pull Request to merge the `dev` branch into the `master` branch.
 
-The **GrapeID** Product Owner is the only person authorized to merge the `dev` branch into `master` for automated deployment into `Production`.
+The **Carbon0** Product Owner is the only person authorized to merge the `dev` branch into `master` for automated deployment into `Production`.
 
 ## Standards
 
-Contributing to **GrapeID** must satisfy **ESLint** under the default settings for `create-react-app` on the frontend or the settings documented in the SpectrumStack repository for the backend.
+Contributing to **Carbon0** must satisfy **ESLint** under the default settings for `create-react-app` on the frontend or the settings documented in the SpectrumStack repository for the backend.
 
 ### Code Standards
 
-JavaScript sources in **GrapeID** should:
+JavaScript sources in **Carbon0** should:
 
 - Use Tabs. Spaces should not be used (ESLint & JSFormatter will resolve automatically).
 
@@ -163,7 +163,7 @@ JavaScript sources in **GrapeID** should:
 
   - Finally, the returned value.
 
-Deviations from **GrapeID** code style guidelines require two-party agreement, typically from the author of the change and its reviewer.
+Deviations from **Carbon0** code style guidelines require two-party agreement, typically from the author of the change and its reviewer.
 
 #### Code Example
 
@@ -230,7 +230,7 @@ During automated testing, code coverage metrics will be reported. Line coverage 
 
 ### Introduction
 
-This style guide acts as the official guide to follow in your projects and commits. GrapeID evaluators will use this guide to complete _code reviews_ of any work pushed to our repositories. There are many opinions on the "ideal" style in the world of development. Therefore, in order to reduce the confusion on what style engineers should follow during the course of their work, we urge all contibutors to refer to this style guide before committing their code.
+This style guide acts as the official guide to follow in your projects and commits. Carbon0 evaluators will use this guide to complete _code reviews_ of any work pushed to our repositories. There are many opinions on the "ideal" style in the world of development. Therefore, in order to reduce the confusion on what style engineers should follow during the course of their work, we urge all contibutors to refer to this style guide before committing their code.
 
 Commit messages should:
 
@@ -356,7 +356,7 @@ When working on a specific topic branch push all commits to the remote repositor
 
 ## Semantic Versioning
 
-Whenever you push a release for work completed on a topic branch you _SHALL_ **version** it. This helps the **GrapeID** engineering team in the future to understand what stage the application is at, and will also help when integrating the application into package managers in the future. **GrapeID** follows software engineering _Best Practices_ and uses **Semantic Versioning**, which is a general template for developers within the industry to use and understand. Ultimately, versioning our application helps us keep track of what's been added or removed at any given point in time. Versioning will help our teams reference source code that has been added or fixed.
+Whenever you push a release for work completed on a topic branch you _SHALL_ **version** it. This helps the **Carbon0** engineering team in the future to understand what stage the application is at, and will also help when integrating the application into package managers in the future. **Carbon0** follows software engineering _Best Practices_ and uses **Semantic Versioning**, which is a general template for developers within the industry to use and understand. Ultimately, versioning our application helps us keep track of what's been added or removed at any given point in time. Versioning will help our teams reference source code that has been added or fixed.
 
 ### Rules for Major, Minor, or Patch Release
 
