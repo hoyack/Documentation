@@ -14,7 +14,7 @@ The short version:
 
 ## Project Goals
 
-We are building a _Carbon Offset Trading Platform_ as a distributed application that should allow users to represent the carbon emissions of an entity to sum the total amount of CO2 created by an org or person, plus any offsets traded on the platform; every token should represent an emission _debt_ that is accrued based on the amount of CO2 emitted throughout the course of the business cycle, or an emission _credit_, which effectively offset the _debt_ by removing the carbon emissions from the environment over the course of time.
+We are building a _Carbon Offset Trading Platform_ as a distributed application that should allow users to represent the carbon emissions of an entity to sum the total amount of CO2 created by an org or person, plus any offsets traded on the platform; every token should represent an emission _debt_ that is accrued based on the amount of CO2 emitted throughout the course of the business cycle, or an emission _credit_, which effectively offsets the _debt_ by removing the carbon emissions from the environment over the course of time.
 
 The **Carbon0** token is a platform built on the Ethereum Blockchain using the following technology stack:
 
@@ -32,7 +32,7 @@ The **Carbon0** token is a platform built on the Ethereum Blockchain using the f
 
 - Javascript/HTML/CSS: frontend development (+any dependency needed along the development process).
 
-The goal of this project is to make **Carbon0** a trusted leader in the online environment, by building a secure and compliant _Decentralized Progressive Web Application_ (PWA) to target every device on the market to make it easier to gain adoption of the _Carbon0_ platform by as many people and organizations as possible.
+The goal of this project is to make **Carbon0** a trusted leader on the blockchain, by building a secure and compliant _Decentralized Progressive Web Application_ (PWA) to target every device on the market to make it easier to gain adoption of the _Carbon0_ platform by as many people and organizations as possible.
 
 ## Carbon0 Project Structure
 
