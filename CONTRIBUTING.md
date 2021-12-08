@@ -1,4 +1,4 @@
-Thank you for committing to working on the development of the **Carbon0** solution with [us](https://www.DavidPLopez.com). Please join us and discuss any development related topics in the comments for each issue.
+Thank you for committing to working on the development of the **Carbon0** solution with [us](https://www.carboneco.trade). Please join us and discuss any development related topics in the comments for each issue.
 
 ## Summary
 
